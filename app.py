@@ -236,7 +236,7 @@ app.layout = dbc.Container([
         dbc.Col([
             html.H6("Created with 🤍 by Natalia", style={'margin':'10px'}),
             html.A(html.Img(src='assets/github_blue.png', style={'height': '32px'}), 
-                href="https://github.com/natatsypora",
+                href="https://github.com/natatsypora/figure-friday-week43-dash-app",
                 target="_blank")                      
             ], width=12, style={'background-color': 'white', 'padding': '20px',  'display': 'flex', 'justify-content': 'center',}),  
         ])
