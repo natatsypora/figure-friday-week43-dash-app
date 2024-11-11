@@ -426,4 +426,4 @@ def update_barpolar(selected_value, fig):
         
 
 if __name__ == "__main__":
-    app.run_server(debug=False, port=8001) # debug=True --> auto-reload
+    app.run_server(debug=False) # debug=True --> auto-reload
