@@ -1,10 +1,17 @@
 ---
 # Figure Friday Week 43 Dash App
+
 Welcome to the Figure Friday Week 43 Dash App repository! 🎉
 
 This project demonstrates a Dash application designed for displaying and interacting with visualizations and data related to the Figure Friday Week 43 theme.
 
 ![image](https://github.com/user-attachments/assets/d33f7121-7a86-40af-90df-a4df7c9f5f28)
+
+![image](https://github.com/user-attachments/assets/c5e5d116-3b25-42b3-a1f8-2677f0500a7a)
+
+![image](https://github.com/user-attachments/assets/3871d738-f20e-4890-af97-dd35462a7f4b)
+
+
 
 
 ## Challenge Details
