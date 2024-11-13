@@ -23,7 +23,8 @@ Each week, a new theme or dataset is provided for participants to explore and vi
 You can find more details about the Figure Friday Week 43 challenge on the Plotly Community Forum: [Figure Friday Week 43 Challenge](https://community.plotly.com/t/figure-friday-2024-week-43/88243)
 
 
-## Getting Started
+<details>
+<summary>Getting Started</summary>  
 
 To get started with this project, follow the steps below:
 
